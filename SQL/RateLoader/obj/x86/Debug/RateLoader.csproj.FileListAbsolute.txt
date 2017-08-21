@@ -1,0 +1,53 @@
+D:\Dev\RateLoader\RateLoader\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Dev\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.ResolveComReference.cache
+D:\Dev\RateLoader\RateLoader\obj\x86\Debug\RateLoader.Properties.Resources.resources
+D:\Dev\RateLoader\RateLoader\bin\Debug\RateLoader.exe.config
+D:\Dev\RateLoader\RateLoader\bin\Debug\RateLoader.exe
+D:\Dev\RateLoader\RateLoader\bin\Debug\RateLoader.pdb
+D:\Dev\RateLoader\RateLoader\bin\Debug\log4net.dll
+D:\Dev\RateLoader\RateLoader\obj\x86\Debug\RateLoader.exe
+D:\Dev\RateLoader\RateLoader\obj\x86\Debug\RateLoader.pdb
+d:\Dev\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csprojResolveAssemblyReference.cache
+d:\Dev\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.GenerateResource.Cache
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\bin\Debug\RateLoader.exe.config
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.ResolveComReference.cache
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\RateLoader.exe
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\RateLoader.pdb
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\bin\Debug\RateLoader.exe
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\bin\Debug\RateLoader.pdb
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\bin\Debug\log4net.dll
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csprojResolveAssemblyReference.cache
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\RateLoader.Properties.Resources.resources
+C:\Users\Dignus\Desktop\RateLoader\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.GenerateResource.Cache
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.exe.config
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.ResolveComReference.cache
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.exe
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.pdb
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.exe
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.pdb
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\bin\Debug\log4net.dll
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.Properties.Resources.resources
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.GenerateResource.Cache
+C:\Users\Dignus\Desktop\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csprojResolveAssemblyReference.cache
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.exe.config
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.exe
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.pdb
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\log4net.dll
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.ResolveComReference.cache
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.Properties.Resources.resources
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.GenerateResource.Cache
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.exe
+D:\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.pdb
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.exe.config
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.ResolveComReference.cache
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.exe
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.pdb
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.exe
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\RateLoader.pdb
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\bin\Debug\log4net.dll
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.Properties.Resources.resources
+D:\Dysk D old\Pulpit\RateLoader2\RateLoader\RateLoader\obj\x86\Debug\RateLoader.csproj.GenerateResource.Cache
